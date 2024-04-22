@@ -1,0 +1,12 @@
+table {
+  width: 50%;
+  border-collapse: collapse; /* Colapsa as bordas para que se tornem uma só */
+}
+th, td {
+  border: 1px solid black; /* Adiciona borda sólida para as células */
+  padding: 8px; /* Adiciona espaço interno nas células */
+  text-align: left; /* Alinha o texto à esquerda */
+}
+th {
+  background-color: #f2f2f2; /* Cor de fundo para o cabeçalho */
+}
